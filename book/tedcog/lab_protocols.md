@@ -1,4 +1,4 @@
-# Lab protocols
+# 4. Lab protocols
 ## Ethics applications (for University of Bristol)
 The lab has a “standard operating procedure” for ethics related to our general line of work. Most, if not all of you, will work under this blanket ethics approval, but you may still be required to submit a “checklist application”. The following steps give a brief overview of this process. 
 

@@ -4,16 +4,9 @@ parts:
   - caption: TedCod Lab Handbook
     chapters:
     - file: tedcog/basic_skills
-#      title: How to use this template
-#      sections:
-#      - file: guide/how-to-use/editing-together
-#      - file: guide/how-to-use/put-online
-#      - file: guide/how-to-use/before-a-workshop
-#    - file: guide/contributing
-#      title: Contributing to this template
-#      sections:
-#        - file: guide/style-guide
-#    - file: guide/code-of-conduct
+      title: Basic skills
+    - file: tedcog/lab_protocols
+      title: Lab protocols
 
 
 

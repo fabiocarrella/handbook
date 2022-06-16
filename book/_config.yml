@@ -24,7 +24,7 @@ sphinx:
 
 latex:
     use_jupyterbook_latex: false
-     latex_documents:
+    latex_documents:
         targetname: book.tex
     latex_engine: pdflatex
 

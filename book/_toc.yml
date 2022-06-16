@@ -1,6 +1,5 @@
 format: jb-book
 root: tedcog/intro
-title: Intro
 parts:
   - caption: TedCod Lab Handbook
     chapters:

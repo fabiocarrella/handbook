@@ -1,5 +1,5 @@
 format: jb-book
-root: guide/what-is-our-handbook
+root: tedcog/intro
 parts:
   - caption: TedCod Lab Handbook
     chapters:

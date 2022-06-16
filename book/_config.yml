@@ -20,4 +20,4 @@ sphinx:
         </p>
     config:
         html_show_copyright: false
-    last_change: |today|
+

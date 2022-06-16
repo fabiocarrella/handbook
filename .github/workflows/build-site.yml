@@ -43,4 +43,4 @@ jobs:
       # Build the book
       - name: Build the book
         run: |
-          jupyter-book build book/ --builder pdfhtml
+          jupyter-book build book

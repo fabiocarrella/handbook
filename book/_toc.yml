@@ -3,7 +3,7 @@ root: tedcog/intro
 parts:
   - caption: TedCod Lab Handbook
     chapters:
-    - file: tedcog/section1
+    - file: tedcog/lab_overview
       title: Overview of the TeDCog Lab
     - file: tedcog/section2
       title: Expectations of lab group members

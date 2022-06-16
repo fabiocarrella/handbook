@@ -7,9 +7,9 @@ We run a journal club where we come together as a group and discuss papers of in
 This club is particularly useful for early career researchers but will be of interest to everyone.
 The club is informal and participation is strongly encouraged.
 
-- Journal club is held every `<TIMEFRAME OR DATE>` at `<HOUR>`.
-- We meet at `<LOCATION>`.
-- We discuss `<NUMBER>` of papers each meeting and these are selected by whoever is leading the meeting.
+- Journal club is held every Friday at 2pm.
+- We meet online or in the big building.
+- External speakers are invited to talk as well as group members presenting their work. 
 - Papers are sent to the whole Group `<NUMBER>` of days before the meeting and everyone is expected to have read them before the meeting.
 - We take turns leading the club.
 

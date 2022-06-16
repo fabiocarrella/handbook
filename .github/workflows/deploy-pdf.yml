@@ -42,4 +42,4 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3.6.1
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: book/_build/pdf
+          publish_dir: book/pdf/_build/pdf

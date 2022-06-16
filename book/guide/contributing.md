@@ -1,26 +1,15 @@
-# Contributing to the `Our Handbook` template
+# Contributing to the TeDCog Handbook
 
-````{admonition} Using these instructions
-These instructions are for people who would like to suggest changes
-and contribute to the handbook __template materials__ provided in this
-repository. 
+These instructions on how to edit the handbook through GitHub. These were adapted from [Our Handbook](https://very-good-science.github.io/our-handbook/guide/how-to-use/how-to-use-overview.html)'s template.
 
-For instructions on how to use this template to create your own
-research group handbook, please see [here](how-to-use/how-to-use-overview).
-````
-
-Welcome to `Our Handbook`, a template for a Research Group handbook and materials to help you make use of it. 
-These materials are under continuous development, and will continue to
-take shape around your suggestions, so we really welcome you to share your ideas.
-
-Please follow our [Code of Conduct](code-of-conduct) in all spaces where Our Handbook members are interacting.
+Please follow the [Code of Conduct](code-of-conduct) when interacting with other members of the group.
 
 
 ## Browser vs. Local machine
 
 There are two ways to suggest changes to the project via [GitHub](https://github.com/): using your internet browser, or using your local machine.
 In these contribution guidelines, you will sometimes see instructions labelled __in the browser__ or __on your local machine__ referencing these two different ways of doing things.
-If you need help with either of these methods, please [open a new Discussion](https://github.com/very-good-science/our-handbook/discussions/new) and we'll be happy to help!
+If you need help with either of these methods, please [open a new Discussion](https://github.com/TeDCog/handbook/discussions/new) and we'll be happy to help!
 
 If you're comfortable using the terminal and Git (or you're interested in learning), then we recommend __using your local machine__.
 This means you:
@@ -44,7 +33,7 @@ If you'd like to know more about using Git and the terminal, then we recommend [
 ## Step-by-step
 
 Here's a step-by-step guide for contributing to this project through GitHub. 
-If you have any problems with any part of this process or you'd like further explanation, please [open a new Discussion](https://github.com/very-good-science/our-handbook/discussions/new) and we'll be happy to help!
+If you have any problems with any part of this process or you'd like further explanation, please [open a new Discussion](https://github.com/TeDCog/handbook/discussions/new) and we'll be happy to help!
 
 1. Getting ready
 2. Let us know what you're working on
@@ -59,18 +48,15 @@ Firstly, you need a GitHub account to contribute.
 
 - [Sign up for a GitHub account](https://github.com/signup) if you don't have one yet.
 
-Secondly, decide what you'd like to work on!
-
-- Check out our [Open Issues](https://github.com/very-good-science/our-handbook/issues) for inspiration.
-- We have a few [Good First Issues](https://github.com/very-good-science/our-handbook/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) labelled, which might be a good place to start.
-- If you're not sure what you'd like to do, then we're happy to help.  We can chat about that on [this discussion](https://github.com/very-good-science/our-handbook/discussions/24).
+Secondly, get permission to contribute to the TedCog repository. One of the TeDCog handbook maintainers will need to add you as a member to give you access. You can find them on the [README page](https://github.com/TedCog/tedcog_handbook/blob/main/README.md). 
    
 ### 2. Let us know what you're working on
 
 By telling us what you're working on, we can avoid duplicating effort, and make sure we can direct everyone's energy into the best output for the project.
 
-- If you find an existing issue that you want to work on, comment on it and tell us that you're working on it.
-
+- Please read [the handbook](https://tedcog.github.io/handbook) first so you know what content is already there - you could propose a change to content in the existing handbook sections.
+- If you think we are missing a section, you could propose a new one.
+- 
 ### 3. Copy (_fork_) the project
 
 You will work on your own copy of the project, called a _fork_.
@@ -81,7 +67,7 @@ When you create a fork, you make your own copy of the project's files (called a 
 ````{tab} In the browser
 If this is the first contribution you've made to the repository, then follow [these instructions](https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository) to fork the repository for the first time.
 
-- [This](https://github.com/very-good-science/our-handbook) is the repository that you want to fork
+- [This](https://github.com/TeDCog/handbook) is the repository that you want to fork
 
 ```{note}
 If you've made a fork of the repository before, for an earlier contribution, then now you need to _sync_ it, since your existing forked copy is probably a little out of date. 

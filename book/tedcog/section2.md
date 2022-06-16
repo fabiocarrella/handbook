@@ -50,7 +50,7 @@ https://reportandsupport.bristol.ac.uk/
 ## 
 We will suggest opportunities to you that we consider appropriate to your career stage and support you in these. Examples include contributing to manuscripts in preparation, reviewing manuscripts and grants, and giving talks. You should not feel under any pressure to accept all of these, but pursue what you feel is suitable for your own development. 
 
-We also encourage all our members to take initiative and seek out any opportunities they may find beneficial for their personal and professional development. You can find more resources on this in the section on “Links to additional resources and training” <span style="color:red">ADD LINK </span>
+We also encourage all our members to take initiative and seek out any opportunities they may find beneficial for their personal and professional development. You can find more resources on this in the section on “Links to additional resources and training” <span style="color:red">ADD LINK</span>
     
 **Most importantly, enjoy your participation in the group!**  
 

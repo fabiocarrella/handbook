@@ -18,6 +18,20 @@ In 2021-2022, other key members of the group at Bristol are:
 
 [Adam Sutton](https://research-information.bris.ac.uk/en/persons/adam-j-sutton-2) 
 
+[Matthew Edwards](https://research-information.bris.ac.uk/en/persons/matthew-edwards)
+
+[Awais Rashid](https://research-information.bris.ac.uk/en/persons/awais-rashid)
+
+[Muhsin Yesilada](https://research-information.bris.ac.uk/en/persons/muhsin-yesilada)
+
+[Michelle Barden](https://research-information.bris.ac.uk/en/persons/michelle-l-barden)
+
+[Simon Clark](https://research-information.bris.ac.uk/en/persons/simon-clark)
+
+[Ginny Gould](https://www.bristol.ac.uk/people/person/Ginny-Gould-a23a5a2c-786f-4063-a2b7-a566a3768306/)
+
+[Richard Westaway](https://www.bristol.ac.uk/people/person/Richard-Westaway-4e46888d-591b-4d0b-a66d-9ed21a3e939c/)
+
 The Bristol team is working closely with several other key members all around Europe who are also active participants in the TeDCog group and who are affiliated with one of the projects being hosted by TeDCog.  
 
 The TeDCog group has a [homepage on the UoB School of Psychology website.](https://sks.to/tedcog)  

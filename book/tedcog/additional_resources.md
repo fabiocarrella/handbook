@@ -43,11 +43,4 @@ The following other resources were used in the creation of this handbook, which 
 * University of Bristol’s Induction Handbook for Principal Investigators, freely available to UoB staff who enrol on the associated self-study [programme](https://develop.bristol.ac.uk/bristoluniversityilp/pages/description.jsf?menuId=1108#/users/@self/catalogues/176365/courses/650649/description).
 
 ## TeDCog publications
-All publications of the TeDCog group are available on our [homepage](http://www.bristol.ac.uk/psychology/research/cognitive-science/tedcog/), which is automatically updated. Here we list a few recent key publications, together with the project that they are most closely associated with.
-
-
-
-
-
-
-
+All publications of the TeDCog group are available on our [homepage](http://www.bristol.ac.uk/psychology/research/cognitive-science/tedcog/), which is automatically updated. 

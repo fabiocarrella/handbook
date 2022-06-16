@@ -23,7 +23,8 @@ sphinx:
         html_last_updated_fmt: "%Y-%m-%d (%H:%M %Z)" 
 
 latex:
+    use_jupyterbook_latex: false
+     latex_documents:
+        targetname: book.tex
     latex_engine: pdflatex
-    toc: true
-    lof: true
 

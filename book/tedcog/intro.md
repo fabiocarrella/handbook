@@ -1,6 +1,4 @@
----
-title: Introduction
----
+# Introduction
 
 ![](https://i.imgur.com/DGOtcaT.png)
 

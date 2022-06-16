@@ -4,7 +4,6 @@
 
 The TeDCog group is an interdisciplinary group hosted mainly in the School of Psychological Science at the University of Bristol that examines the pressure points between human cognition and online technologies, and the consequences for democracy that arise from those pressure points. 
 
-<span style="color:red">(team)=
 ## Meet the team
 
 TeDCog is headed by [Stephan Lewandowsky](https://www.cogsciwa.com/). 
@@ -84,11 +83,9 @@ Please [email a request to join the mailing list](mailto:TeDCog@bristol.ac.uk) t
 
 We designed and will run the group meetings by considering the [10 rules published here](https://dx.doi.org/10.1371/journal.pcbi.1008953).
 
-
-<span style="color:red"> **Past projects:** 
-
 <!--**Have kept this in as we may want to expand the team and include more here using the template format**
 
+<span style="color:red"> **Past projects:** 
  
 ````{panels}
 :column: col-lg-4 px-2 py-2

@@ -1,4 +1,4 @@
-# Overview of the TeDCog Lab
+# 1. Overview of the TeDCog Lab
 
 ## Our Mission
 

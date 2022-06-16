@@ -16,8 +16,7 @@ To do so, we specifically work toward: 
 ## Strong relationships: 
 
 * We will ensure that each junior group member has a direct mentoring relationship with a more senior colleague 
-* We will share opportunities with group members regardless of their status or seniority to enhance professional development (see next section) <span style="color:red">ADD LINK</span>
-* 
+* We will share opportunities with group members regardless of their status or seniority to enhance professional development [(see next section)](https://tedcog.github.io/handbook/tedcog/basic_skills.html)
 * We engage in open conversations with people from all levels 
 * We acknowledge that we will all make mistakes. We will learn from our mistakes and take action to correct ourselves. 
 ## An inclusive environment: 
@@ -28,7 +27,7 @@ To do so, we specifically work toward: 
 * We are receptive to constructive criticism  
 * We do our best to use non gendered language  
 * We strive to read and present works from excluded/marginalized scientists wherever possible 
-*We devote lab meeting(s) and group discussions to discussing diversity and inclusion issues whenever appropriate 
+* We devote lab meeting(s) and group discussions to discussing diversity and inclusion issues whenever appropriate 
 
 ## A healthy environment:  
 * We will not equate self-worth to scientific success 
@@ -51,7 +50,7 @@ https://reportandsupport.bristol.ac.uk/
 ## 
 We will suggest opportunities to you that we consider appropriate to your career stage and support you in these. Examples include contributing to manuscripts in preparation, reviewing manuscripts and grants, and giving talks. You should not feel under any pressure to accept all of these, but pursue what you feel is suitable for your own development. 
 
-We also encourage all our members to take initiative and seek out any opportunities they may find beneficial for their personal and professional development. You can find more resources on this in the section on “Links to additional resources and training” <span style="color:red">ADD LINK</span>
+We also encourage all our members to take initiative and seek out any opportunities they may find beneficial for their personal and professional development. You can find more resources on this in the section on [“Links to additional resources and training”](https://tedcog.github.io/handbook/tedcog/additional_resources.html)
     
 **Most importantly, enjoy your participation in the group!**  
 

@@ -36,8 +36,6 @@ To do so, we specifically work toward: 
 * We encourage members to set boundaries on their work hours—an academic career is a marathon, not a sprint 
 * We recognize each person’s right to personal privacy 
 
- 
-
 ## Safety, Discrimination and Sexual Harassment Policy 
 ## 
 It is important that everyone in the group receives fair treatment and feels safe. If you feel that anyone is acting unfairly on inappropriately towards you or anyone on your research team, you should approach a senior group member.  

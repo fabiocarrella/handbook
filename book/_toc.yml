@@ -1,8 +1,13 @@
 format: jb-book
 root: tedcog/intro
+title: Intro
 parts:
   - caption: TedCod Lab Handbook
     chapters:
+    - file: tedcog/section1
+      title: Overview of the TeDCog Lab
+    - file: tedcog/section2
+      title: Expectations of lab group members
     - file: tedcog/basic_skills
       title: Basic skills
     - file: tedcog/lab_protocols

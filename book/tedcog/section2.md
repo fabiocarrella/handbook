@@ -16,7 +16,7 @@ To do so, we specifically work toward: 
 ## Strong relationships: 
 
 * We will ensure that each junior group member has a direct mentoring relationship with a more senior colleague 
-* We will share opportunities with group members regardless of their status or seniority to enhance professional development (see next section) <span style="color:red">ADD LINK</span>
+* We will share opportunities with group members regardless of their status or seniority to enhance professional development (see next section) <span style="color:red">ADD LINK
 * We engage in open conversations with people from all levels 
 * We acknowledge that we will all make mistakes. We will learn from our mistakes and take action to correct ourselves. 
 ## An inclusive environment: 
@@ -50,7 +50,7 @@ https://reportandsupport.bristol.ac.uk/
 ## 
 We will suggest opportunities to you that we consider appropriate to your career stage and support you in these. Examples include contributing to manuscripts in preparation, reviewing manuscripts and grants, and giving talks. You should not feel under any pressure to accept all of these, but pursue what you feel is suitable for your own development. 
 
-We also encourage all our members to take initiative and seek out any opportunities they may find beneficial for their personal and professional development. You can find more resources on this in the section on “Links to additional resources and training” <span style="color:red">ADD LINK</span>
+We also encourage all our members to take initiative and seek out any opportunities they may find beneficial for their personal and professional development. You can find more resources on this in the section on “Links to additional resources and training” <span style="color:red">ADD LINK
     
 **Most importantly, enjoy your participation in the group!**  
 

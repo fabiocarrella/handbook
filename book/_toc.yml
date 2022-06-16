@@ -11,6 +11,9 @@ parts:
       title: Basic skills
     - file: tedcog/lab_protocols
       title: Lab protocols
+    - file: tedcog/additional_resources
+      title: Additional resources
+
 
 
 

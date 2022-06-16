@@ -1,13 +1,13 @@
 ## 2. Expectations of lab group members
 ### What can you expect from joining the group? 
 
-Our group comprises many researchers at different career stages, from undergraduate students to established researchers. As a member of the group, you can expect to work in a diverse and inclusive environment and gain the opportunity to pursue different projects, collaborations, and tasks.  
+Our group comprises many researchers at different career stages, from undergraduate students to established researchers. As a member of the group, you can expect to work in a diverse and inclusive environment and gain the opportunity to pursue different projects, collaborations, and tasks.
 
 All group members are encouraged to contribute to the scholarly discussions at all stages. We particularly encourage more junior colleagues to present or speak out during the weekly meetings. 
 
 ## Our commitment to diversity and inclusivity 
 
-As a group, we acknowledge that academia and science continue to suffer from a lack of diversity, equity, and inclusion. Science does not operate in a bubble, nor is it apolitical. Scientific issues are societal issues, and societal issues, such as racism, gender bias, and personal safety, are issues that affect the scientific enterprise and that the community must address. This statement was adapted from [this precedent] (https://www.riederlab.org/dei-statement) (with permission). It was approved by all laboratory members, and we will revisit it regularly. 
+As a group, we acknowledge that academia and science continue to suffer from a lack of diversity, equity, and inclusion. Science does not operate in a bubble, nor is it apolitical. Scientific issues are societal issues, and societal issues, such as racism, gender bias, and personal safety, are issues that affect the scientific enterprise and that the community must address. This statement was adapted from [this precedent](https://www.riederlab.org/dei-statement) (with permission). It was approved by all laboratory members, and we will revisit it regularly. 
 
 We welcome, support, and advocate for community members from diverse backgrounds including those from different socioeconomic backgrounds, races and ethnicities, gender identities and sexualities, religions, disabilities, familial obligations, and other personal identities.  
 
@@ -16,7 +16,8 @@ To do so, we specifically work toward: 
 ## Strong relationships: 
 
 * We will ensure that each junior group member has a direct mentoring relationship with a more senior colleague 
-* We will share opportunities with group members regardless of their status or seniority to enhance professional development (see next section) <span style="color:red">ADD LINK
+* We will share opportunities with group members regardless of their status or seniority to enhance professional development (see next section) <span style="color:red">ADD LINK</span>
+* 
 * We engage in open conversations with people from all levels 
 * We acknowledge that we will all make mistakes. We will learn from our mistakes and take action to correct ourselves. 
 ## An inclusive environment: 
@@ -50,7 +51,7 @@ https://reportandsupport.bristol.ac.uk/
 ## 
 We will suggest opportunities to you that we consider appropriate to your career stage and support you in these. Examples include contributing to manuscripts in preparation, reviewing manuscripts and grants, and giving talks. You should not feel under any pressure to accept all of these, but pursue what you feel is suitable for your own development. 
 
-We also encourage all our members to take initiative and seek out any opportunities they may find beneficial for their personal and professional development. You can find more resources on this in the section on “Links to additional resources and training” <span style="color:red">ADD LINK
+We also encourage all our members to take initiative and seek out any opportunities they may find beneficial for their personal and professional development. You can find more resources on this in the section on “Links to additional resources and training” <span style="color:red">ADD LINK</span>
     
 **Most importantly, enjoy your participation in the group!**  
 

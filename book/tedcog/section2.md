@@ -1,4 +1,4 @@
-## 2. Expectations of lab group members
+# 2. Expectations of lab group members
 ### What can you expect from joining the group? 
 
 Our group comprises many researchers at different career stages, from undergraduate students to established researchers. As a member of the group, you can expect to work in a diverse and inclusive environment and gain the opportunity to pursue different projects, collaborations, and tasks.

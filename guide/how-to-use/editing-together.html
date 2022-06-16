@@ -1,0 +1,502 @@
+
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
+
+    <title>Editing together &#8212; TeDCog Handbook</title>
+    
+  <!-- Loaded before other Sphinx assets -->
+  <link href="../../_static/styles/theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
+<link href="../../_static/styles/pydata-sphinx-theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
+
+    
+  <link rel="stylesheet"
+    href="../../_static/vendor/fontawesome/5.13.0/css/all.min.css">
+  <link rel="preload" as="font" type="font/woff2" crossorigin
+    href="../../_static/vendor/fontawesome/5.13.0/webfonts/fa-solid-900.woff2">
+  <link rel="preload" as="font" type="font/woff2" crossorigin
+    href="../../_static/vendor/fontawesome/5.13.0/webfonts/fa-brands-400.woff2">
+
+    <link rel="stylesheet" type="text/css" href="../../_static/pygments.css" />
+    <link rel="stylesheet" href="../../_static/styles/sphinx-book-theme.css?digest=62ba249389abaaa9ffc34bf36a076bdc1d65ee18" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/togglebutton.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/copybutton.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/mystnb.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/sphinx-thebe.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/tabs.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/design-style.b7bb847fb20b106c3d81b95245e65545.min.css" />
+    
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="../../_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf">
+
+    <script data-url_root="../../" id="documentation_options" src="../../_static/documentation_options.js"></script>
+    <script src="../../_static/jquery.js"></script>
+    <script src="../../_static/underscore.js"></script>
+    <script src="../../_static/doctools.js"></script>
+    <script src="../../_static/clipboard.min.js"></script>
+    <script src="../../_static/copybutton.js"></script>
+    <script src="../../_static/scripts/sphinx-book-theme.js?digest=f31d14ad54b65d19161ba51d4ffff3a77ae00456"></script>
+    <script src="../../_static/tabs.js"></script>
+    <script>let toggleHintShow = 'Click to show';</script>
+    <script>let toggleHintHide = 'Click to hide';</script>
+    <script>let toggleOpenOnPrint = 'true';</script>
+    <script src="../../_static/togglebutton.js"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
+    <script src="../../_static/design-tabs.js"></script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"
+const thebe_selector = ".thebe,.cell"
+const thebe_selector_input = "pre"
+const thebe_selector_output = ".output, .cell_output"
+</script>
+    <script async="async" src="../../_static/sphinx-thebe.js"></script>
+    <link rel="index" title="Index" href="../../genindex.html" />
+    <link rel="search" title="Search" href="../../search.html" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="docsearch:language" content="None">
+    
+
+    <!-- Google Analytics -->
+    
+  </head>
+  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="60">
+<!-- Checkboxes to toggle the left sidebar -->
+<input type="checkbox" class="sidebar-toggle" name="__navigation" id="__navigation" aria-label="Toggle navigation sidebar">
+<label class="overlay overlay-navbar" for="__navigation">
+    <div class="visually-hidden">Toggle navigation sidebar</div>
+</label>
+<!-- Checkboxes to toggle the in-page toc -->
+<input type="checkbox" class="sidebar-toggle" name="__page-toc" id="__page-toc" aria-label="Toggle in-page Table of Contents">
+<label class="overlay overlay-pagetoc" for="__page-toc">
+    <div class="visually-hidden">Toggle in-page Table of Contents</div>
+</label>
+<!-- Headers at the top -->
+<div class="announcement header-item noprint"></div>
+<div class="header header-item noprint"></div>
+
+    
+    <div class="container-fluid" id="banner"></div>
+
+    
+
+    <div class="container-xl">
+      <div class="row">
+          
+<!-- Sidebar -->
+<div class="bd-sidebar noprint" id="site-navigation">
+    <div class="bd-sidebar__content">
+        <div class="bd-sidebar__top"><div class="navbar-brand-box">
+    <a class="navbar-brand text-wrap" href="../../index.html">
+      
+      
+      
+      <h1 class="site-logo" id="site-title">TeDCog Handbook</h1>
+      
+    </a>
+</div><form class="bd-search d-flex align-items-center" action="../../search.html" method="get">
+  <i class="icon fas fa-search"></i>
+  <input type="search" class="form-control" name="q" id="search-input" placeholder="Search this book..." aria-label="Search this book..." autocomplete="off" >
+</form><nav class="bd-links" id="bd-docs-nav" aria-label="Main">
+    <div class="bd-toc-item active">
+        
+        <ul class="nav bd-sidenav bd-sidenav__home-link">
+            <li class="toctree-l1">
+                <a class="reference internal" href="../../tedcog/intro.html">
+                    
+                </a>
+            </li>
+        </ul>
+        <p aria-level="2" class="caption" role="heading">
+ <span class="caption-text">
+  TedCog Lab Handbook
+ </span>
+</p>
+<ul class="nav bd-sidenav">
+ <li class="toctree-l1">
+  <a class="reference internal" href="../../tedcog/lab_overview.html">
+   Overview of the TeDCog Lab
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../../tedcog/expectations.html">
+   Expectations of lab group members
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../../tedcog/basic_skills.html">
+   Basic skills
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../../tedcog/lab_protocols.html">
+   Lab protocols
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../../tedcog/additional_resources.html">
+   Additional resources
+  </a>
+ </li>
+</ul>
+
+    </div>
+</nav></div>
+        <div class="bd-sidebar__bottom">
+             <!-- To handle the deprecated key -->
+            
+            <div class="navbar_extra_footer">
+            <div>
+    Handbook created using <a href="https://github.com/very-good-science/our-meta-handbook">Our Handbook</a>.
+    Powered by <a href="https://jupyterbook.org/">Jupyter Book</a>.
+</div>
+
+            </div>
+            
+        </div>
+    </div>
+    <div id="rtd-footer-container"></div>
+</div>
+
+
+          
+
+
+          
+<!-- A tiny helper pixel to detect if we've scrolled -->
+<div class="sbt-scroll-pixel-helper"></div>
+<!-- Main content -->
+<div class="col py-0 content-container">
+    
+    <div class="header-article row sticky-top noprint">
+        
+
+
+
+<div class="col py-1 d-flex header-article-main">
+    <div class="header-article__left">
+        
+        <label for="__navigation"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="right"
+title="Toggle navigation"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-bars"></i>
+  </span>
+
+</label>
+
+        
+    </div>
+    <div class="header-article__right">
+<button onclick="toggleFullScreen()"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="bottom"
+title="Fullscreen mode"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-expand"></i>
+  </span>
+
+</button>
+
+<div class="menu-dropdown menu-dropdown-download-buttons">
+  <button class="headerbtn menu-dropdown__trigger"
+      aria-label="Download this page">
+      <i class="fas fa-download"></i>
+  </button>
+  <div class="menu-dropdown__content">
+    <ul>
+      <li>
+        <a href="../../_sources/guide/how-to-use/editing-together.md"
+   class="headerbtn"
+   data-toggle="tooltip"
+data-placement="left"
+title="Download source file"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-file"></i>
+  </span>
+<span class="headerbtn__text-container">.md</span>
+</a>
+
+      </li>
+      
+      <li>
+        
+<button onclick="printPdf(this)"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="left"
+title="Print to PDF"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-file-pdf"></i>
+  </span>
+<span class="headerbtn__text-container">.pdf</span>
+</button>
+
+      </li>
+      
+    </ul>
+  </div>
+</div>
+<label for="__page-toc"
+  class="headerbtn headerbtn-page-toc"
+  
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-list"></i>
+  </span>
+
+</label>
+
+    </div>
+</div>
+
+<!-- Table of contents -->
+<div class="col-md-3 bd-toc show noprint">
+    <div class="tocsection onthispage pt-5 pb-3">
+        <i class="fas fa-list"></i> Contents
+    </div>
+    <nav id="bd-toc-nav" aria-label="Page">
+        <ul class="visible nav section-nav flex-column">
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#preparations">
+   Preparations
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#plan-for-the-day-s">
+   Plan for the day(s)
+  </a>
+  <ul class="nav section-nav flex-column">
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#introduction-40-mins">
+     Introduction (~40 mins)
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#working-sessions-2-hours-each">
+     Working sessions (~2 hours each)
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#suggested-mega-check-list">
+   Suggested mega-check-list
+  </a>
+ </li>
+</ul>
+
+    </nav>
+</div>
+    </div>
+    <div class="article row">
+        <div class="col pl-md-3 pl-lg-5 content-container">
+            <!-- Table of contents that is only displayed when printing the page -->
+            <div id="jb-print-docs-body" class="onlyprint">
+                <h1>Editing together</h1>
+                <!-- Table of contents -->
+                <div id="print-main-content">
+                    <div id="jb-print-toc">
+                        
+                        <div>
+                            <h2> Contents </h2>
+                        </div>
+                        <nav aria-label="Page">
+                            <ul class="visible nav section-nav flex-column">
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#preparations">
+   Preparations
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#plan-for-the-day-s">
+   Plan for the day(s)
+  </a>
+  <ul class="nav section-nav flex-column">
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#introduction-40-mins">
+     Introduction (~40 mins)
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#working-sessions-2-hours-each">
+     Working sessions (~2 hours each)
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#suggested-mega-check-list">
+   Suggested mega-check-list
+  </a>
+ </li>
+</ul>
+
+                        </nav>
+                    </div>
+                </div>
+            </div>
+            <main id="main-content" role="main">
+                
+              <div>
+                
+  <section class="tex2jax_ignore mathjax_ignore" id="editing-together">
+<h1>Editing together<a class="headerlink" href="#editing-together" title="Permalink to this headline">#</a></h1>
+<p>Editing the book together is one of the core ideas behind <code class="docutils literal notranslate"><span class="pre">Our</span> <span class="pre">Handbook</span></code>: the purpose is to ensure that everyone knows where everything is, and has the chance to share their knowledge and make sure that the group works for them.
+We really recommend editing the book together.
+Here we provide some guidance for how you might want to organise doing that.</p>
+<section id="preparations">
+<h2>Preparations<a class="headerlink" href="#preparations" title="Permalink to this headline">#</a></h2>
+<p>We recommend nominating 1-2 people from the group to do the initial set up of the <code class="docutils literal notranslate"><span class="pre">Our</span> <span class="pre">Handbook</span></code> template for your group and admin.
+This should be done ahead of other people working on the handbook, i.e. in advance of a book sprint where you fill it in together.</p>
+<!-- TODO: More detailed instructions for editing license, e.g. change in website footer -->
+<div class="tip admonition">
+<p class="admonition-title">Checklist</p>
+<ul class="contains-task-list simple">
+<li class="task-list-item"><p><input class="task-list-item-checkbox" disabled="disabled" type="checkbox"> Make your own copy of this repo</p>
+<ul class="contains-task-list">
+<li class="task-list-item"><p><input class="task-list-item-checkbox" disabled="disabled" type="checkbox"> Fork the repo (if your group doesn’t have a GitHub organisation, perhaps make one and fork to there).</p></li>
+<li class="task-list-item"><p><input class="task-list-item-checkbox" disabled="disabled" type="checkbox"> Make all members of your team collaborators of the forked repo (and/or members of the GitHub organisation).</p></li>
+<li class="task-list-item"><p><input class="task-list-item-checkbox" disabled="disabled" type="checkbox"> Ensure the group agrees on what license your handbook materials will use. By default it will use the CC-BY license (as you will copy it when you copy this repository). If you’d like to use a different license instead, replace the <a class="reference external" href="http://LICENSE.md">LICENSE.md</a> file in the root directory before you start making other changes.</p></li>
+<li class="task-list-item"><p><input class="task-list-item-checkbox" disabled="disabled" type="checkbox"> Edit the <code class="docutils literal notranslate"><span class="pre">README.md</span></code> and <code class="docutils literal notranslate"><span class="pre">CONTRIBUTING.md</span></code> files in the root of the repo, according to the <code class="docutils literal notranslate"><span class="pre">FIXME</span></code> instructions in html comments (that look like this <code class="docutils literal notranslate"><span class="pre">&lt;!--</span> <span class="pre">FIXME:</span> <span class="pre">instructions--&gt;</span></code>). You’ll only be able to see these in a text (markdown) editor. Note: These look different to the other <code class="docutils literal notranslate"><span class="pre">FIXME</span></code> instructions as described in [editing-instructions][contributing-fork] because they must be invisible on the <code class="docutils literal notranslate"><span class="pre">Our</span> <span class="pre">Handbook</span></code> repository.</p></li>
+</ul>
+</li>
+<li class="task-list-item"><p><input class="task-list-item-checkbox" disabled="disabled" type="checkbox"> Choose a day or two for an away day/book sprint. This can be done synchronously or asynchronously, and virtually or in the same space.</p>
+<ul class="contains-task-list">
+<li class="task-list-item"><p><input class="task-list-item-checkbox" disabled="disabled" type="checkbox"> Find (a) time(s) when everyone can attend</p></li>
+<li class="task-list-item"><p><input class="task-list-item-checkbox" disabled="disabled" type="checkbox"> Book a room if necessary</p></li>
+<li class="task-list-item"><p><input class="task-list-item-checkbox" disabled="disabled" type="checkbox"> Organise lunch/snacks/drinks</p></li>
+<li class="task-list-item"><p><input class="task-list-item-checkbox" disabled="disabled" type="checkbox"> If GitHub is new to the team, organise a GitHub training session ahead of time.</p></li>
+</ul>
+</li>
+<li class="task-list-item"><p><input class="task-list-item-checkbox" disabled="disabled" type="checkbox"> Ensure you understand <a class="reference internal" href="../contributing.html"><span class="doc std std-doc">how team members will be editing the handbook together</span></a>.</p></li>
+<li class="task-list-item"><p><input class="task-list-item-checkbox" disabled="disabled" type="checkbox"> Ensure you have up-to-date photos for the handbook, consider organising a group photo + individual photos if possible.</p></li>
+<li class="task-list-item"><p><input class="task-list-item-checkbox" disabled="disabled" type="checkbox"> Prepare some issues to kick-start the conversation in your new fork, e.g.:</p>
+<ul class="contains-task-list">
+<li class="task-list-item"><p><input class="task-list-item-checkbox" disabled="disabled" type="checkbox"> Create a handbook <a class="reference internal" href="#mega-check-list"><span class="std std-ref">mega-check-list</span></a> with every section that you might want to put in the book.</p></li>
+<li class="task-list-item"><p><input class="task-list-item-checkbox" disabled="disabled" type="checkbox"> Fill in the “Our Team” section (each person fills in their own section).</p></li>
+<li class="task-list-item"><p><input class="task-list-item-checkbox" disabled="disabled" type="checkbox"> Fill in the “Current Projects” section (nominate a person per project).</p></li>
+</ul>
+</li>
+</ul>
+</div>
+</section>
+<section id="plan-for-the-day-s">
+<h2>Plan for the day(s)<a class="headerlink" href="#plan-for-the-day-s" title="Permalink to this headline">#</a></h2>
+<section id="introduction-40-mins">
+<h3>Introduction (~40 mins)<a class="headerlink" href="#introduction-40-mins" title="Permalink to this headline">#</a></h3>
+<ul class="simple">
+<li><p>Welcome</p></li>
+<li><p>Guide of the repository, especially:</p>
+<ul>
+<li><p>where to find the away-day contribution guidelines, and what they are.</p></li>
+<li><p>where to find the issues</p></li>
+<li><p>Maybe practice communicating on GitHub (e.g. in “discussions”).</p></li>
+</ul>
+</li>
+<li><p>Go through your handbook mega-check-list issue and agree on what sections should be in your finished handbook, and sort them roughly by priority (e.g. “must-have”, “nice-to-have”)</p></li>
+<li><p>Create issues together for the first task each person will do, and link them to the mega-check-list</p></li>
+</ul>
+</section>
+<section id="working-sessions-2-hours-each">
+<h3>Working sessions (~2 hours each)<a class="headerlink" href="#working-sessions-2-hours-each" title="Permalink to this headline">#</a></h3>
+<ul class="simple">
+<li><p>Set goals (remind of process, e.g. make/comment on issues)</p></li>
+<li><p>Use a pomodoro timer to work for three-to-four sets of 25 minutes (if working virtually, you could use <a class="reference external" href="https://cuckoo.team">cuckoo.team</a> or <a class="reference external" href="https://marinaratimer.com">marinara timer</a></p></li>
+<li><p>Use 5 minute breaks between sessions to check in with everyone/answer questions, and continually set goals and celebrate achievements.</p></li>
+</ul>
+</section>
+</section>
+<section id="suggested-mega-check-list">
+<span id="mega-check-list"></span><h2>Suggested mega-check-list<a class="headerlink" href="#suggested-mega-check-list" title="Permalink to this headline">#</a></h2>
+<!--TODO: Update mega-check-list-->
+<p>You can copy and paste the following into a GitHub mega-check-list as a starting point.</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="o">-</span> <span class="p">[</span> <span class="p">]</span> <span class="n">Update</span> <span class="n">GitHub</span><span class="o">-</span><span class="n">only</span> <span class="n">files</span>
+    <span class="o">-</span> <span class="p">[</span> <span class="p">]</span> <span class="n">README</span>
+    <span class="o">-</span> <span class="p">[</span> <span class="p">]</span> <span class="n">LICENSE</span> 
+    <span class="o">-</span> <span class="p">[</span> <span class="p">]</span> <span class="n">CONTRIBUTING</span>
+<span class="o">-</span> <span class="p">[</span> <span class="p">]</span> <span class="n">Fill</span> <span class="n">out</span> <span class="n">templates</span>
+    <span class="o">-</span> <span class="p">[</span> <span class="p">]</span> <span class="n">Welcome</span>
+    <span class="o">-</span> <span class="p">[</span> <span class="p">]</span> <span class="n">Our</span> <span class="n">Team</span>
+    <span class="o">-</span> <span class="p">[</span> <span class="p">]</span> <span class="n">Research</span> <span class="n">Interests</span>
+    <span class="o">-</span> <span class="p">[</span> <span class="p">]</span> <span class="n">Projects</span>
+    <span class="o">-</span> <span class="p">[</span> <span class="p">]</span> <span class="n">Research</span> <span class="n">Environment</span>
+    <span class="o">-</span> <span class="p">[</span> <span class="p">]</span> <span class="n">Resources</span>
+<span class="o">-</span> <span class="p">[</span> <span class="p">]</span> <span class="n">Final</span> <span class="n">tidying</span>
+    <span class="o">-</span> <span class="p">[</span> <span class="p">]</span> <span class="n">Delete</span> <span class="n">the</span> <span class="s2">&quot;Guide&quot;</span> <span class="n">section</span>
+</pre></div>
+</div>
+</section>
+</section>
+
+    <script type="text/x-thebe-config">
+    {
+        requestKernel: true,
+        binderOptions: {
+            repo: "binder-examples/jupyter-stacks-datascience",
+            ref: "master",
+        },
+        codeMirrorConfig: {
+            theme: "abcdef",
+            mode: "python"
+        },
+        kernelOptions: {
+            kernelName: "python3",
+            path: "./guide/how-to-use"
+        },
+        predefinedOutput: true
+    }
+    </script>
+    <script>kernelName = 'python3'</script>
+
+              </div>
+              
+            </main>
+            <footer class="footer-article noprint">
+                
+    <!-- Previous / next buttons -->
+<div class='prev-next-area'>
+</div>
+            </footer>
+        </div>
+    </div>
+    <div class="footer-content row">
+        <footer class="col footer"><p>
+  
+    By TeDCog members<br/>
+  
+    Last updated on 2022-06-16 (15:28 UTC).<br/>
+</p>
+        </footer>
+    </div>
+    
+</div>
+
+
+      </div>
+    </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="../../_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf"></script>
+
+
+  </body>
+</html>

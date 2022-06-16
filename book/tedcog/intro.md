@@ -1,4 +1,4 @@
-![](https://i.imgur.com/DGOtcaT.png)
+# ![](https://i.imgur.com/DGOtcaT.png)
 
 **Welcome to the *Technology, Democracy, and Cognition Group [TeDCog](https://sks.to/tedcog)*  at the University of Bristol** 
 

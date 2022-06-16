@@ -20,9 +20,4 @@ sphinx:
         </p>
     config:
         html_show_copyright: false
-        
-columns:
-  created_time:
-    type: timestamp
-    notnull: true
-    default: default CURRENT_TIMESTAMP
+    last_change: |today|

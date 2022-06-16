@@ -1,12 +1,5 @@
 # Contribution guidelines
 
-<!--
-FIXME: replace with below
+TeDCog members are welcome to contribute to the handbook. 
 
-For instructions on how to edit the group handbook, look [here](https://<YOUR-GITHUB-ORGANISATION>.github.io/<YOUR-REPO-NAME>/resources/contributing-fork.html).
-To contribute to the original `Our Handbook` project, look at their contribution guidelines [here](https://very-good-science.github.io/our-handbook/guide/contributing.html).
--->
-
-Thank you for being here and wanting to contribute! 
-You can read our most up to date contribution guidelines on our website, [here](https://very-good-science.github.io/our-handbook/guide/contributing.html).
-
+See [here]([https://<YOUR-GITHUB-ORGANISATION>.github.io/<YOUR-REPO-NAME>/resources/contributing-fork.html](https://very-good-science.github.io/our-handbook/guide/how-to-use/how-to-use-overview.html) for a general tutorial on using GitHub to edit the handbook.

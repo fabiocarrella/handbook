@@ -23,5 +23,7 @@ sphinx:
         html_last_updated_fmt: "%Y-%m-%d (%H:%M %Z)" 
 
 latex:
-  latex_engine: pdflatex
+    latex_engine: pdflatex
+    toc: true
+    lof: true
 

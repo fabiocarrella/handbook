@@ -34,7 +34,9 @@ To do so, we specifically work toward: 
 ## A healthy environment:  
 * We will not equate self-worth to scientific success 
 * We encourage members to set boundaries on their work hours—an academic career is a marathon, not a sprint 
-* We recognize each person’s right to personal privacy 
+* We do not expect that people respond to email chains/discord messages on the weekend, even if any are going around
+* We recognize each person’s right to personal privacy
+
 
 ## Safety, Discrimination and Sexual Harassment Policy 
 ## 

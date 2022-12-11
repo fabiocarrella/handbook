@@ -24,6 +24,7 @@ In short, it means that if you want to conduct research using any of the items l
 
 **How do you do that?** 
 You need to follow the specific instructions outlined in the SOP. Please read it through before you submit a new ethics application. When using the SOP, you must declare that you are following the TeDCog SOP (approval #12099) and that your research adheres to the SOP in full – or specify where exactly it doesn’t. It will appear on OREMS during the application:
+
 ![OREMS example](https://github.com/TeDCog/handbook/blob/main/book/source/sop_check.png)
 
 ## Open science

@@ -24,7 +24,7 @@ In short, it means that if you want to conduct research using any of the items l
 
 **How do you do that?** 
 You need to follow the specific instructions outlined in the SOP. Please read it through before you submit a new ethics application. When using the SOP, you must declare that you are following the TeDCog SOP (approval #12099) and that your research adheres to the SOP in full – or specify where exactly it doesn’t. It will appear on OREMS during the application:
-![OREMS example](./source/sop_check.png)
+![OREMS example](book/source/sop_check.png)
 
 ## Open science
 Open science encompasses a number of open practices that aim to ensure that research is widely accessible and can be re-used, and act as a quality control process. The table below lists different open practices and how TeDCog aims to support them. Training on Open Science practices is also part of the TeDCog syllabus.

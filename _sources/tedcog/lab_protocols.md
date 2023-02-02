@@ -15,6 +15,9 @@ Most of the research conducted within our lab will qualify for an expedited rese
 
 For an example project including all the above, see [here](https://uob.sharepoint.com/:f:/t/grp-lewandowsky-lab/EgLX4WVaFKJCjGxMmIi9cSgBjOVAc_NtsZOFjcR6fGVWeg?e=X6oPIu).
 
+### Note for students
+Please note that the system allows students to grant supervisors full access to their ethics applications form. When students name a supervisor, the 'share' option is beside the supervisors name and they can grant the necessary access rights. **Please use this option in every ethics application you make.**
+
 ### Standard Operating Procedure
 As mentioned above, the lab has a “standard operating procedure” (SOP) for ethics related to our general line of work.
 Yoy may view it [here](https://uob.sharepoint.com/:f:/r/teams/grp-lewandowsky-lab/Shared%20Documents/Ethics_Example/SOP?csf=1&web=1&e=VkYcM0).

@@ -18,6 +18,7 @@ In 2023-2024, other key members of the group at Bristol are:
 * [Awais Rashid](https://research-information.bris.ac.uk/en/persons/awais-rashid)
 * [Muhsin Yesilada](https://research-information.bris.ac.uk/en/persons/muhsin-yesilada)
 * [Simon Clark](https://research-information.bris.ac.uk/en/persons/simon-clark)
+* [Kiia Huttunen](https://research-information.bris.ac.uk/en/persons/kiia-j-a-huttunen)
 * [Ginny Gould](https://www.bristol.ac.uk/people/person/Ginny-Gould-a23a5a2c-786f-4063-a2b7-a566a3768306/)
 * [Richard Westaway](https://www.bristol.ac.uk/people/person/Richard-Westaway-4e46888d-591b-4d0b-a66d-9ed21a3e939c/)
 

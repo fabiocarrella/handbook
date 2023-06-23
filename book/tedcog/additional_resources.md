@@ -1,5 +1,5 @@
 # 5. Additional resources & training
-The group’s [professional development syllabus](https://airtable.com/invite/l?inviteId=inv7rEmtOlhHyyWJq&inviteToken=9a8d1d51585496e07e55e6bc7c8e1628634ffeb97f167ff64df1b26fc8c018f7&utm_source=email) covers various useful topics for researchers.
+The group’s [professional development syllabus](https://airtable.com/shrS1U2iL7STmEGyZ/tbltOof4RCGxrYr8X)) covers various useful topics for researchers.
 
 If there are skills you feel you need but are not on the list, please let us know at [TeDCog@bristol.ac.uk](mailto:TeDCog@bristol.ac.uk)!
 
@@ -59,7 +59,7 @@ http://www.bristol.ac.uk/university/governance/policies/
 ## Other resources
 The following other resources were used in the creation of this handbook, which might provide useful additional reading:
 * The Concordat to Support the Career Development of Researchers: https://www.vitae.ac.uk/policy/concordat
-* University of Bristol’s Induction Handbook for Principal Investigators, freely available to UoB staff who enrol on the associated self-study [programme](https://develop.bristol.ac.uk/bristoluniversityilp/pages/description.jsf?menuId=1108#/users/@self/catalogues/176365/courses/650649/description).
+* University of Bristol’s Induction Handbook for Principal Investigators, freely available to UoB staff who enrol on the associated self-study [programme](https://develop.bristol.ac.uk/bristoluniversityilp/pages/description.jsf?menuId=1108#/users/@self/catalogues/176365/courses/650649/description) (log-in required).
 
 ## TeDCog publications
 All publications of the TeDCog group are available on our [homepage](http://www.bristol.ac.uk/psychology/research/cognitive-science/tedcog/), which is automatically updated. 

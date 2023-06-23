@@ -80,7 +80,7 @@ The TeDCog group is organized around weekly meetings. All members are strongly e
     
 The weekly meeting is being held on Fridays 1-2pm UK time. This is a hybrid seminar style meeting (you can attend virtually or in-person). The [schedule for the current academic year can be found here](https://airtable.com/shr9zVcDu6SmdeTen).
     
-In addition, every second weekly meeting is followed by another 45 minutes set aside for professional development [see the “syllabus” here](https://airtable.com/invite/l?inviteId=inv7rEmtOlhHyyWJq&inviteToken=9a8d1d51585496e07e55e6bc7c8e1628634ffeb97f167ff64df1b26fc8c018f7&utm_source=email). 
+In addition, every second weekly meeting is followed by another 45 minutes set aside for professional development [see the “syllabus” here](https://airtable.com/shrS1U2iL7STmEGyZ/tbltOof4RCGxrYr8X). 
 
 Please [email a request to join the mailing list](mailto:TeDCog@bristol.ac.uk) to get updates on the meeting schedule, agenda, and Zoom/meeting room links. You cannot be a member of the group without being on the mailing list.
 

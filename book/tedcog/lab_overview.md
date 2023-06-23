@@ -12,7 +12,7 @@ In 2023-2024, other key members of the group at Bristol are:
 
 * [Fabio Carrella](https://research-information.bris.ac.uk/en/persons/fabio-carrella)
 * [Dawn Holford](https://research-information.bris.ac.uk/en/persons/dawn-holford)
-* [Alessandro Miani]()
+* [Alessandro Miani](https://www.researchgate.net/profile/Alessandro-Miani-2)
 * [Adam Sutton](https://research-information.bris.ac.uk/en/persons/adam-j-sutton-2) 
 * [Matthew Edwards](https://research-information.bris.ac.uk/en/persons/matthew-edwards)
 * [Awais Rashid](https://research-information.bris.ac.uk/en/persons/awais-rashid)

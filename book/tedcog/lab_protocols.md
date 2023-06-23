@@ -15,6 +15,21 @@ Most of the research conducted within our lab will qualify for an expedited rese
 
 For an example project including all the above, see [here](https://uob.sharepoint.com/:f:/t/grp-lewandowsky-lab/EgLX4WVaFKJCjGxMmIi9cSgBjOVAc_NtsZOFjcR6fGVWeg?e=X6oPIu).
 
+### Note for students
+Please note that the system allows students to grant supervisors full access to their ethics applications form. When students name a supervisor, the 'share' option is beside the supervisors name and they can grant the necessary access rights. **Please use this option in every ethics application you make.**
+
+### Standard Operating Procedure
+As mentioned above, the lab has a “standard operating procedure” (SOP) for ethics related to our general line of work.
+Yoy may view it [here](https://uob.sharepoint.com/:f:/r/teams/grp-lewandowsky-lab/Shared%20Documents/Ethics_Example/SOP?csf=1&web=1&e=VkYcM0).
+ 
+**What does it mean for you?** 
+In short, it means that if you want to conduct research using any of the items listed in Appendix 2 (or for better browsing, see Christoph's [table](https://docs.google.com/spreadsheets/d/1f5gzEw6kRsyLwiC8kVjhsEP2DgRxL1Dvj900p494tKs/edit#gid=1762177533) and search for UoB Ethics code 12099), you are eligible to do so as a checklist application and avoid a full ethics review.
+
+**How do you do that?** 
+You need to follow the specific instructions outlined in the SOP. Please read it through before you submit a new ethics application. When using the SOP, you must declare that you are following the TeDCog SOP (approval #12099) and that your research adheres to the SOP in full – or specify where exactly it doesn’t. It will appear on OREMS during the application:
+
+![OREMS example](https://github.com/TeDCog/handbook/blob/main/book/source/sop_check.png?raw=true)
+
 ## Open science
 Open science encompasses a number of open practices that aim to ensure that research is widely accessible and can be re-used, and act as a quality control process. The table below lists different open practices and how TeDCog aims to support them. Training on Open Science practices is also part of the TeDCog syllabus.
 

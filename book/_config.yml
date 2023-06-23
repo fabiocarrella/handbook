@@ -1,7 +1,7 @@
 # Book settings
 title: "TeDCog Handbook"
 author: TeDCog members
-# logo: images/logo.png
+#logo: https://i.imgur.com/qLltTCl.jpeg
 url: "http://tedcog.github.io/handbook"
 
 html:
@@ -10,6 +10,7 @@ html:
             Handbook created using <a href="https://github.com/very-good-science/our-meta-handbook">Our Handbook</a>.
             Powered by <a href="https://jupyterbook.org/">Jupyter Book</a>.
         </div>
+    favicon: "favicon.ico"
 
 sphinx:
     extra_extensions:
@@ -21,9 +22,4 @@ sphinx:
     config:
         html_show_copyright: false
         html_last_updated_fmt: "%Y-%m-%d (%H:%M %Z)" 
-
-latex:
-    latex_engine: pdflatex
-    toc: true
-    lof: true
 

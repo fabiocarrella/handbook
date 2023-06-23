@@ -8,29 +8,18 @@ The TeDCog group is an interdisciplinary group hosted mainly in the School of Ps
 
 TeDCog is headed by [Stephan Lewandowsky](https://www.cogsciwa.com/). 
 
-In 2021-2022, other key members of the group at Bristol are: 
+In 2023-2024, other key members of the group at Bristol are: 
 
-[Fabio Carrella](https://research-information.bris.ac.uk/en/persons/fabio-carrella) 
-
-[Dawn Holford](https://research-information.bris.ac.uk/en/persons/dawn-holford) 
-
-[Almog Simchon](https://almogsi.com/) 
-
-[Adam Sutton](https://research-information.bris.ac.uk/en/persons/adam-j-sutton-2) 
-
-[Matthew Edwards](https://research-information.bris.ac.uk/en/persons/matthew-edwards)
-
-[Awais Rashid](https://research-information.bris.ac.uk/en/persons/awais-rashid)
-
-[Muhsin Yesilada](https://research-information.bris.ac.uk/en/persons/muhsin-yesilada)
-
-[Michelle Barden](https://research-information.bris.ac.uk/en/persons/michelle-l-barden)
-
-[Simon Clark](https://research-information.bris.ac.uk/en/persons/simon-clark)
-
-[Ginny Gould](https://www.bristol.ac.uk/people/person/Ginny-Gould-a23a5a2c-786f-4063-a2b7-a566a3768306/)
-
-[Richard Westaway](https://www.bristol.ac.uk/people/person/Richard-Westaway-4e46888d-591b-4d0b-a66d-9ed21a3e939c/)
+* [Fabio Carrella](https://research-information.bris.ac.uk/en/persons/fabio-carrella)
+* [Dawn Holford](https://research-information.bris.ac.uk/en/persons/dawn-holford)
+* [Alessandro Miani](https://www.researchgate.net/profile/Alessandro-Miani-2)
+* [Matthew Edwards](https://research-information.bris.ac.uk/en/persons/matthew-edwards)
+* [Awais Rashid](https://research-information.bris.ac.uk/en/persons/awais-rashid)
+* [Muhsin Yesilada](https://research-information.bris.ac.uk/en/persons/muhsin-yesilada)
+* [Simon Clark](https://research-information.bris.ac.uk/en/persons/simon-clark)
+* [Kiia Huttunen](https://research-information.bris.ac.uk/en/persons/kiia-j-a-huttunen)
+* [Ginny Gould](https://www.bristol.ac.uk/people/person/Ginny-Gould-a23a5a2c-786f-4063-a2b7-a566a3768306/)
+* [Richard Westaway](https://www.bristol.ac.uk/people/person/Richard-Westaway-4e46888d-591b-4d0b-a66d-9ed21a3e939c/)
 
 The Bristol team is working closely with several other key members all around Europe who are also active participants in the TeDCog group and who are affiliated with one of the projects being hosted by TeDCog.  
 

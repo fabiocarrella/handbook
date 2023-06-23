@@ -1,6 +1,6 @@
 # 4. Lab protocols
 ## Ethics applications (for University of Bristol)
-The lab has a “standard operating procedure” for ethics related to our general line of work. Most, if not all of you, will work under this blanket ethics approval, but you may still be required to submit a “checklist application”. The following steps give a brief overview of this process. 
+The lab has a “standard operating procedure” for ethics related to our general line of work. Most, if not all of you, will work under this blanket ethics approval, but you may still be required to submit a “checklist application” (a Fast Track route). The following steps give a brief overview of this process. 
 
 Ethics applications can be made via the [Online Research Ethics Management System (OREMS)](https://orems.bristol.ac.uk).
 
@@ -18,12 +18,16 @@ For an example project including all the above, see [here](https://uob.sharepoin
 ### Note for students
 Please note that the system allows students to grant supervisors full access to their ethics applications form. When students name a supervisor, the 'share' option is beside the supervisors name and they can grant the necessary access rights. **Please use this option in every ethics application you make.**
 
+For **undergraduate and Masters' students**, your ethics applications are reviewed by a **Student** School of Psychological Science Research Ethics Committee. It is strongly recommended that all undergraduate research projects are undertaken as **GROUP** projects. That is, several students work on the same protocol so that there is only one ethics application. This also helps to obtain sufficient data for meaningful analysis. If students opt for individual projects and have the support of the supervisor in this decision, there is an expectation that they will have **developed a well formulated research plan early (by week 5 of term)** to allow sufficient time for the student to complete the study on their own.
+
+We expect that student projects in our lab should be done under the checklist application route. 
+
 ### Standard Operating Procedure
 As mentioned above, the lab has a “standard operating procedure” (SOP) for ethics related to our general line of work.
 Yoy may view it [here](https://uob.sharepoint.com/:f:/r/teams/grp-lewandowsky-lab/Shared%20Documents/Ethics_Example/SOP?csf=1&web=1&e=VkYcM0).
  
 **What does it mean for you?** 
-In short, it means that if you want to conduct research using any of the items listed in Appendix 2 (or for better browsing, see Christoph's [table](https://docs.google.com/spreadsheets/d/1f5gzEw6kRsyLwiC8kVjhsEP2DgRxL1Dvj900p494tKs/edit#gid=1762177533) and search for UoB Ethics code 12099), you are eligible to do so as a checklist application and avoid a full ethics review.
+In short, it means that if you want to conduct research using any of the items listed in Appendix 2 of the SOP (or for better browsing, see Christoph Abel's helpful [table](https://docs.google.com/spreadsheets/d/1f5gzEw6kRsyLwiC8kVjhsEP2DgRxL1Dvj900p494tKs/edit#gid=1762177533) and search for UoB Ethics code 12099), you are eligible to do so as a checklist application and avoid a full ethics review.
 
 **How do you do that?** 
 You need to follow the specific instructions outlined in the SOP. Please read it through before you submit a new ethics application. When using the SOP, you must declare that you are following the TeDCog SOP (approval #12099) and that your research adheres to the SOP in full – or specify where exactly it doesn’t. It will appear on OREMS during the application:
@@ -60,4 +64,4 @@ When leaving the group, individuals should ensure that data files and documents 
 In addition to the procedures above, different projects hosted in the TeDCog group may have data management plans (DMPs) they must adhere to. If you are working under a project, be sure to check if there are specific protocols to follow (e.g., for file naming, data sharing etc.)
 
 ### Help with data management. 
-The University of Bristol has a specialist unit to help with all aspects of research data management, including assistance with writing data management plans for research grants (data.bris.ac.uk). Any breach of data protection must be reported immediately to senior group members and/or project managers. 
+The University of Bristol has a [specialist unit](https://data.bris.ac.uk) to help with all aspects of research data management, including assistance with writing data management plans for research grants. Any breach of data protection must be reported immediately to senior group members and/or project managers. 

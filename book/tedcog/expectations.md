@@ -44,9 +44,8 @@ It is important that everyone in the group receives fair treatment and feels saf
 
 These discussions will be treated confidentially, although in certain instances (e.g., if the matter relates to sexual harassment or if there is a risk of self-harm), the person you speak to may be required to report this through appropriate channels. The University also has a mechanism for raising concerns confidentially. 
 
-http://www.bristol.ac.uk/hr/acceptable-behaviour/  
-
-https://reportandsupport.bristol.ac.uk/  
+* https://www.bristol.ac.uk/media-library/sites/equality/documents/Acceptable-Behaviour-Policy.pdf
+* https://reportandsupport.bristol.ac.uk/  
 
 ## Our commitment to creating opportunities 
 

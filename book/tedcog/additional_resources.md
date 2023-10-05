@@ -1,5 +1,5 @@
 # 5. Additional resources & training
-The group’s [professional development syllabus](https://airtable.com/shrS1U2iL7STmEGyZ/tbltOof4RCGxrYr8X)) covers various useful topics for researchers.
+The group’s [professional development syllabus](https://airtable.com/appWMhN35S79h8Rfa/shr4v87j5H1PE6yts) covers various useful topics for researchers.
 
 If there are skills you feel you need but are not on the list, please let us know at [TeDCog@bristol.ac.uk](mailto:TeDCog@bristol.ac.uk)!
 

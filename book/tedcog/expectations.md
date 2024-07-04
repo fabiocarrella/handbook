@@ -39,7 +39,7 @@ To do so, we specifically work toward: 
 
 
 ## Safety, Discrimination and Sexual Harassment Policy 
-## 
+
 It is important that everyone in the group receives fair treatment and feels safe. If you feel that anyone is acting unfairly on inappropriately towards you or anyone on your research team, you should approach a senior group member.  
 
 These discussions will be treated confidentially, although in certain instances (e.g., if the matter relates to sexual harassment or if there is a risk of self-harm), the person you speak to may be required to report this through appropriate channels. The University also has a mechanism for raising concerns confidentially. 
@@ -58,7 +58,6 @@ We also encourage all our members to take initiative and seek out any opportunit
 ## A note on authorship  
 
 While it is commonly accepted that researchers who have contributed substantially to the development of a paper should have authorship of the paper, it can be tricky to determine what constitutes a substantial contribution. One way to do so is using the [CRediT taxonomy](https://casrai.org/credit/).
-    
 
 If you are writing your dissertation (broadly defined as being any research project, from a third-year project through a Master’s thesis) under the supervision of a group member, there is every possibility that your work may be publishable. Even if it not publishable on its own, then in conjunction with other experiments conducted by group members. In virtually all cases (i.e., with rare exceptions), you will be entitled to authorship on the resultant publication. However, you will not be the only author: Your supervisor(s) will also be (a) co-author in virtually all cases (again with rare exceptions). 
 
@@ -88,11 +87,18 @@ You may wish to have a look at the following articles on the ethics of authorshi
 
 ## What do we expect of you as part of the lab? 
 
-We expect that all members of the lab will *take ownership of their tasks and behave professionally*. In general, this means taking responsibility for the tasks assigned to you, adhering to set deadlines (or communicating promptly if you need extensions), and treating all other members of the group with respect.  
+We expect that all members of the lab will *take ownership of their tasks and behave professionally*. 
+
+In general, this means:
+* Taking responsibility for the tasks assigned to you;
+* Adhering to set deadlines (or communicating promptly if you need extensions), and;
+* Treating all other members of the group with respect.  
 
 Taking responsibility includes little things, such as being on time for group meetings, especially if you attend virtually. It also means you should respond to emails and so on in a timely manner (e.g., within the next working day), even if you only acknowledge receipt and promise a more detailed reply for later. If you are unable to respond in a timely manner, please put a “bounce back” or “away from my desk” message on Outlook. If you are planning to be away (e.g., on leave), please arrange this sufficiently far in advance to ensure cover is available for your tasks.  
 
-Remember that *taking responsibility does not mean doing it all yourself*: a big part of ownership is getting help when you need it—right away! If you have a problem, do not panic. Do not delay. Talk to your supervisor or seek help from another member. Talk. Even personal problems, should they adversely affect your performance and participation in lab activities, can be legitimate topics for discussion. *Whatever you do, do not walk away from a problem in frustration—talk to someone instead*. 
+Remember that *taking responsibility does not mean doing it all yourself*: a big part of ownership is getting help when you need it—right away! If you have a problem, do not panic. Do not delay. Talk to your supervisor or seek help from another member. Talk. Even personal problems, should they adversely affect your performance and participation in lab activities, can be legitimate topics for discussion. 
+
+**Whatever you do, do not walk away from a problem in frustration—talk to someone instead.** 
 
 ## Expectations for members at different career stages 
 

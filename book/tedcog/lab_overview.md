@@ -65,7 +65,7 @@ Project Manager: [Ginny Gould](https://www.bristol.ac.uk/people/person/Ginny-Gou
 We examine how people’s differing conceptions of “truth” can be used to design interventions to protect democratic discourse.
     
 Other nodes: 
-* [Technical University of Graz, Austria](https://www.tugraz.at/en/research/focus-on-research/)  
+* [University of Konstanz](https://www.uni-konstanz.de/centre-for-human-data-society/people/prof-david-garcia/) 
 
 Funder: [European Research Council](https://erc.europa.eu/), Advanced Grant.
 

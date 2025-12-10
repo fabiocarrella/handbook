@@ -63,4 +63,4 @@ When leaving the group, individuals should ensure that data files and documents 
 In addition to the procedures above, different projects hosted in the TeDCog group may have data management plans (DMPs) they must adhere to. If you are working under a project, be sure to check if there are specific protocols to follow (e.g., for file naming, data sharing etc.)
 
 ### Help with data management. 
-The University of Bristol has a [specialist unit](https://data.bris.ac.uk) to help with all aspects of research data management, including assistance with writing data management plans for research grants. Any breach of data protection must be reported immediately to senior group members and/or project managers. 
+The University of Bristol has a [specialist unit](https://data.bris.ac.uk) to help with all aspects of research data management, including assistance with writing data management plans for research grants. Any breach of data protection must be reported immediately to senior group members and/or project managers.

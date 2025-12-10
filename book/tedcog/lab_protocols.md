@@ -26,7 +26,7 @@ We expect that student projects in our lab should be done under the checklist ap
 As mentioned above, the lab has a “standard operating procedure” (SOP) for ethics related to our general line of work. You may view it [here](https://uob.sharepoint.com/:f:/r/teams/grp-lewandowsky-lab/Shared%20Documents/Ethics_Example/SOP?csf=1&web=1&e=RPIprX), where you will find a pdf containing the current version of all SOP documents, as well as a folder that contains Word versions of the individual appendices.
  
 **What does it mean for you?** 
-In short, it means that if you want to conduct research using any of the items listed in [Appendix 2](https://docs.google.com/spreadsheets/d/1f5gzEw6kRsyLwiC8kVjhsEP2DgRxL1Dvj900p494tKs/edit?usp=sharing) of the SOP, you are eligible to do so as a checklist application and avoid a full ethics review. 
+In short, it means that if you want to conduct research using any of the items listed in [Appendix 2](https://docs.google.com/spreadsheets/d/1f5gzEw6kRsyLwiC8kVjhsEP2DgRxL1Dvj900p494tKs/edit?usp=sharing) of the SOP, you are eligible to do so as a checklist application and avoid a full ethics review.
 
 **How do you do that?** 
 You need to follow the specific instructions outlined in the SOP. Please read it through before you submit a new ethics application. When using the SOP, you must declare that you are following the TeDCog SOP (approval #12099) and that your research adheres to the SOP in full – or specify where exactly it doesn’t. It will appear on OREMS during the application:

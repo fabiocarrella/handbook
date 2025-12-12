@@ -1,5 +1,5 @@
 # 3. Basic skills 
-There are a few skills we assume people joining our group will already have. We mention them here because they are essential and often taken for granted. Most of these you can easily figure out how to use on your own, or by revising content that would have been taught in your first or second year of undergraduate study: 
+There are a few basic skills we assume people joining our group will already have. We mention them here because they are essential and often taken for granted. Most of these you can easily figure out how to use on your own, or by revising content that would have been taught in your first or second year of undergraduate study: 
 
 * **ISI, Scopus, OVID, PsycInfo, Google Scholar**. Ring a bell? If not, make sure you find out about these search engines. If you do know about them, make sure you also know how to combine output from searches (what does AND do, what does OR achieve?). Make sure you can search by author AND keyword if necessary.
 * **Citation searches**. Make sure you can conduct [searches for citations of literature](https://www.open.ac.uk/library/finding-information-on-your-research-topic/how-do-i-do-a-citation-search) (e.g., to find what other work has cited that article).

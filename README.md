@@ -5,7 +5,7 @@
 
 This is the home of the TeDCog Handbook. 
 
-Please see [our website](http://www.bristol.ac.uk/psychology/research/cognitive-science/tedcog/) to learn more about the TeDCog group at the University of Bristol.
+Please see [our website](https://www.bristol.ac.uk/psychology/research/self-and-society/tedcog/) to learn more about the TeDCog group at the University of Bristol.
 
 ## Contributors ✨
 
